@@ -9,13 +9,8 @@ This project is about building an online Self drive car rental service that prov
 
 ## Authors
 
-
-- [@mehulmangal](https://github.com/mehulmangal)
-- [@kajalkishore](https://github.com/kajalkishore)
 - [@mdazam0786](https://github.com/mdazam0786)
-- [@ahtishamkhan5678](https://github.com/ahtishamkhan5678)
-- [@8975380494](https://github.com/8975380494)
-- [@ranvsingh7](https://github.com/ranvsingh7)
+
 
 
 
